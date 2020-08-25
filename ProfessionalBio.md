@@ -7,6 +7,8 @@ Mobile: 513-240-6370
 
 __Co-op and Work Experience__
 
-*Item 1
+* Technical Displays Co-op (2 semesters)
+  * abc
 
-*Item 2
+* After-Sales Technical Engineer (1 semester)
+  * abc
