@@ -21,7 +21,7 @@ __Co-op and Work Experience:__
   * Sole programmer for an XY gantry system used to plot hysteresis of Balluff sensors
   * In charge of requirements, both software and hardware, for the XY gantry system
   * Assisting programmers with integrating our devices into their systems
-  
+  * Trained Balluff's sales team on how to use new products and what makes them new and improved
   
  __Skills/Expertise Areas:__
  
