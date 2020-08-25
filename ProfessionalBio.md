@@ -1,4 +1,4 @@
-# Professional Biography
+## Professional Biography
 __Contact information__
 Kevin Starmack (starmakw@mail.uc.edu)
 Mobile: 513-240-6370
